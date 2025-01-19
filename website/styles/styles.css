@@ -53,3 +53,25 @@
   border-radius: 10px;
   text-align: center;
 }
+
+.contact {
+  padding: 80px 20px;
+  background-color: white;
+}
+
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+}
