@@ -75,3 +75,22 @@
   border: 1px solid #ddd;
   border-radius: 5px;
 }
+
+.footer {
+  background-color: #333333;
+  color: white;
+  padding: 40px 20px;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.social-links {
+  display: flex;
+  gap: 20px;
+}
