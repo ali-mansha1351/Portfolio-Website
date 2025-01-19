@@ -1,9 +1,7 @@
 {
   "extends": "stylelint-config-standard",
   "rules": {
-    "color-hex-case": "lower",
-    "string-quotes": "double",
-    "selector-class-pattern": null,
+    "order/string-quotes": "double",
     "declaration-block-trailing-semicolon": "always",
     "declaration-block-no-duplicate-properties": true,
     "no-duplicate-selectors": true,
