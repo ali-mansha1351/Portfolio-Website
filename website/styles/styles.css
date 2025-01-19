@@ -19,3 +19,18 @@
   text-decoration: none;
   border-radius: 5px;
 }
+
+.about {
+  padding: 80px 20px;
+  background-color: white;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.about-text {
+  padding: 20px;
+}
